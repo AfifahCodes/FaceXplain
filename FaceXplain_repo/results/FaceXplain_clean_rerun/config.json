@@ -1,0 +1,35 @@
+{
+  "DATA_DIR": "/content/drive/MyDrive/THESIS DATA",
+  "OUT_DIR": "/content/drive/MyDrive/FaceXplain_clean_rerun",
+  "SEEDS": [
+    42,
+    123,
+    2024
+  ],
+  "BASELINE_SEEDS": [
+    42
+  ],
+  "RUN_BASELINES": true,
+  "BASELINES": [
+    "VGG19",
+    "ResNet50",
+    "InceptionV3",
+    "DenseNet121",
+    "MobileNetV2",
+    "EfficientNetB0"
+  ],
+  "IMG_SIZE": 224,
+  "BATCH_SIZE": 32,
+  "EPOCHS_STAGE1": 15,
+  "EPOCHS_STAGE2": 15,
+  "PATIENCE": 4,
+  "ENLARGE_VALIDATION": true,
+  "VAL_FRACTION_FROM_TRAIN": 0.1,
+  "DUP_HAMMING_THRESHOLD": 5,
+  "REMOVE_CROSS_SPLIT_DUPLICATES": true,
+  "SPLIT_SEED": 42,
+  "FIG_DIR": "/content/drive/MyDrive/FaceXplain_clean_rerun/figures",
+  "W_DIR": "/content/drive/MyDrive/FaceXplain_clean_rerun/weights",
+  "AUTOTUNE": -1,
+  "XAI_SEED": 42
+}

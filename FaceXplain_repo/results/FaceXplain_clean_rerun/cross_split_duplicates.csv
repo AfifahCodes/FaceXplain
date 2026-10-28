@@ -1,0 +1,13 @@
+query_split,query,train_match,hamming
+test,/content/drive/MyDrive/THESIS DATA/test/autistic/046.jpg,/content/drive/MyDrive/THESIS DATA/train/autistic/0875.jpg,5
+test,/content/drive/MyDrive/THESIS DATA/test/non_autistic/067.jpg,/content/drive/MyDrive/THESIS DATA/train/non_autistic/0829.jpg,2
+test,/content/drive/MyDrive/THESIS DATA/test/non_autistic/077.jpg,/content/drive/MyDrive/THESIS DATA/train/non_autistic/1234.jpg,5
+test,/content/drive/MyDrive/THESIS DATA/test/non_autistic/100.jpg,/content/drive/MyDrive/THESIS DATA/train/non_autistic/0291.jpg,3
+test,/content/drive/MyDrive/THESIS DATA/test/non_autistic/120.jpg,/content/drive/MyDrive/THESIS DATA/train/non_autistic/1056.jpg,5
+test,/content/drive/MyDrive/THESIS DATA/test/non_autistic/130.jpg,/content/drive/MyDrive/THESIS DATA/train/non_autistic/0293.jpg,2
+test,/content/drive/MyDrive/THESIS DATA/test/non_autistic/149.jpg,/content/drive/MyDrive/THESIS DATA/train/non_autistic/1168.jpg,4
+valid,/content/drive/MyDrive/THESIS DATA/valid/autistic/14.jpg,/content/drive/MyDrive/THESIS DATA/train/non_autistic/0291.jpg,5
+valid,/content/drive/MyDrive/THESIS DATA/valid/autistic/28.jpg,/content/drive/MyDrive/THESIS DATA/train/autistic/0251.jpg,3
+valid,/content/drive/MyDrive/THESIS DATA/valid/autistic/32.jpg,/content/drive/MyDrive/THESIS DATA/train/autistic/0762.jpg,4
+valid,/content/drive/MyDrive/THESIS DATA/valid/autistic/38.jpg,/content/drive/MyDrive/THESIS DATA/train/autistic/1163.jpg,4
+valid,/content/drive/MyDrive/THESIS DATA/valid/non_autistic/48.jpg,/content/drive/MyDrive/THESIS DATA/train/non_autistic/1043.jpg,5
