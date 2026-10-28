@@ -1,0 +1,16 @@
+# Packages used by the notebooks (run on Google Colab with a T4 GPU).
+# Versions were not pinned during the experiments: after re-running in Colab, run `pip freeze`
+# and replace this list with the exact versions you used.
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+pillow
+openpyxl
+tensorflow
+lime
+mediapipe
+torch
+torchvision
+timm

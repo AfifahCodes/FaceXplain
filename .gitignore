@@ -1,0 +1,11 @@
+# model weights are large: archive them on Zenodo instead
+*.h5
+*.pt
+*.keras
+weights/
+# never commit the image dataset
+data/
+THESIS DATA/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
